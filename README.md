@@ -432,6 +432,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Maps
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**ArcGIS APIs**](https://developers.arcgis.com/documentation/)|Esri provides multiple API clients for web, mobile, desktop and through HTTP web services.|💸
 | [**Amazon Maps API v2**](https://developer.amazon.com/maps) | Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and Fire phone apps. | **N/A** |
 | [**Bing Maps**](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) | Bing Maps platform provides multiple API options for your application. | **N/A** |
 | [**Cartes.io**](https://github.com/M-Media-Group/Cartes.io/wiki/API) | Create maps and markers for anything, without authentication. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
